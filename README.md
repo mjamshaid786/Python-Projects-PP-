@@ -182,7 +182,7 @@ It motivates me to continue building and sharing more projects.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: **<YOUR_LINKEDIN_PROFILE>**
+- 💼 LinkedIn: **inkedin.com/in/muhammad-jamshaid-a04054370/**
 - 🐙 GitHub: **https://github.com/mj6237**
 
 ---
